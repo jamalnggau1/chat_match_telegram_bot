@@ -7,5 +7,5 @@ JSON_AS_ASCII           = False
 TEMPLATES_AUTO_RELOAD   = True
 
 # 設置 bot_poc.config
-BOT_API_KEY             = "1234567890:ABCDEFGHIJKKKKKKKKKK"
-BOT_HOOK_URL            = "https://Domainnnnnnnnnnnnn/hook"
+BOT_API_KEY             = "1967817869:AAGVCb3xVHT9EFoUlPNYll1auQToDHwtXiU"
+BOT_HOOK_URL            = "https://hook.io/defrimoito2001/jamalrun"
