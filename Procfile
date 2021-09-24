@@ -1,1 +1,1 @@
-worker: bash install.py
+worker: bash install.sh
