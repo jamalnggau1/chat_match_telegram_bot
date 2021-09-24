@@ -18,7 +18,7 @@ app = Flask(__name__)
 app.config.from_object(config)
 
 import redis
-connectionPool = redis.ConnectionPool(host='redis', port=:11317 ,decode_responses=True)
+connectionPool = redis.ConnectionPool(host='redis-11317.c259.us-central1-2.gce.cloud.redislabs.com', port=:11317 ,decode_responses=True)
 redisInst = redis.Redis(connection_pool=connectionPool)
 redisInst.set('test','ok')
 
