@@ -8,4 +8,4 @@ TEMPLATES_AUTO_RELOAD   = True
 
 # 設置 bot_poc.config
 BOT_API_KEY             = "2031288797:AAHAmpVLJoLjnJ-X2VxHppbOTf_zfHmgpt0"
-BOT_HOOK_URL            = "https://hook.io/defrimoito2001/jamalrun"
+BOT_HOOK_URL            = "redis-11317.c259.us-central1-2.gce.cloud.redislabs.com:11317"
